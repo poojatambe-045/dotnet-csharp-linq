@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\extentionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\extentionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\generationoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\generationoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\groupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\groupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\groupbymethodwithmultiplekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\groupbymethodwithmultiplekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\ienumerableiqueryable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\ienumerableiqueryable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\immediateexecutiondeferredexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\immediateexecutiondeferredexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\joins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\joins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\oftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\oftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\orderingoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\orderingoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\pagingusingskiptake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\pagingusingskiptake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\partitioningoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\partitioningoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\plinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\plinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\quantifiersoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\quantifiersoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\selectmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\selectmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\sequenceequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\sequenceequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\setoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\setoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\toarraytolisttodictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\toarraytolisttodictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\tolookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\tolookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\where.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\where.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\aggregateoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\aggregateoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\linq\\linq\\helper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D1F28C-4D2E-4F53-BDBB-0C34789F5AB6}|Linq\\Linq.csproj|solutionrelative:linq\\helper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtentionMethod.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\ExtentionMethod.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\ExtentionMethod.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\ExtentionMethod.cs",
+              "RelativeToolTip": "Linq\\Helper\\ExtentionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:39:48.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupByMethodwithMultipleKeys.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\GroupByMethodwithMultipleKeys.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\GroupByMethodwithMultipleKeys.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\GroupByMethodwithMultipleKeys.cs",
+              "RelativeToolTip": "Linq\\Helper\\GroupByMethodwithMultipleKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:39:01.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OfType.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\OfType.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\OfType.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\OfType.cs",
+              "RelativeToolTip": "Linq\\Helper\\OfType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:35:30.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Joins.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Joins.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\Joins.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Joins.cs",
+              "RelativeToolTip": "Linq\\Helper\\Joins.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAIAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:35:28.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImmediateExecutionDeferredExecution.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\ImmediateExecutionDeferredExecution.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\ImmediateExecutionDeferredExecution.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\ImmediateExecutionDeferredExecution.cs",
+              "RelativeToolTip": "Linq\\Helper\\ImmediateExecutionDeferredExecution.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:23:23.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupBy.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\GroupBy.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\GroupBy.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\GroupBy.cs",
+              "RelativeToolTip": "Linq\\Helper\\GroupBy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:57:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Linq\\Model\\Student.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Model\\Student.cs",
+              "RelativeToolTip": "Linq\\Model\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:22:40.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderingOperators.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\OrderingOperators.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\OrderingOperators.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\OrderingOperators.cs",
+              "RelativeToolTip": "Linq\\Helper\\OrderingOperators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:33:51.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerationOperator.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\GenerationOperator.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\GenerationOperator.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\GenerationOperator.cs",
+              "RelativeToolTip": "Linq\\Helper\\GenerationOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:57:44.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagingUsingSkipTake.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\PagingUsingSkipTake.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\PagingUsingSkipTake.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\PagingUsingSkipTake.cs",
+              "RelativeToolTip": "Linq\\Helper\\PagingUsingSkipTake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:33:39.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PartitioningOperator.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\PartitioningOperator.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\PartitioningOperator.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\PartitioningOperator.cs",
+              "RelativeToolTip": "Linq\\Helper\\PartitioningOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:33:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnumerableIQueryable.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\IEnumerableIQueryable.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\IEnumerableIQueryable.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\IEnumerableIQueryable.cs",
+              "RelativeToolTip": "Linq\\Helper\\IEnumerableIQueryable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:22:11.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PLinq.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\PLinq.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\PLinq.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\PLinq.cs",
+              "RelativeToolTip": "Linq\\Helper\\PLinq.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:32:49.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuantifiersOperators.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\QuantifiersOperators.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\QuantifiersOperators.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\QuantifiersOperators.cs",
+              "RelativeToolTip": "Linq\\Helper\\QuantifiersOperators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:32:26.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SelectMany.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\SelectMany.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\SelectMany.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\SelectMany.cs",
+              "RelativeToolTip": "Linq\\Helper\\SelectMany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:31:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SequenceEqual.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\SequenceEqual.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\SequenceEqual.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\SequenceEqual.cs",
+              "RelativeToolTip": "Linq\\Helper\\SequenceEqual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:31:07.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SetOperator.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\SetOperator.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\SetOperator.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\SetOperator.cs",
+              "RelativeToolTip": "Linq\\Helper\\SetOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:30:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ToArrayToListToDictionary.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\ToArrayToListToDictionary.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\ToArrayToListToDictionary.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\ToArrayToListToDictionary.cs",
+              "RelativeToolTip": "Linq\\Helper\\ToArrayToListToDictionary.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:29:37.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ToLookup.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\ToLookup.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\ToLookup.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\ToLookup.cs",
+              "RelativeToolTip": "Linq\\Helper\\ToLookup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:28:24.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Select.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Select.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\Select.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Select.cs",
+              "RelativeToolTip": "Linq\\Helper\\Select.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:24:50.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reverse.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Reverse.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\Reverse.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Reverse.cs",
+              "RelativeToolTip": "Linq\\Helper\\Reverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:55:21.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Where.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Where.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\Where.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Where.cs",
+              "RelativeToolTip": "Linq\\Helper\\Where.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:28:10.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Common.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Common.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\Common.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\Common.cs",
+              "RelativeToolTip": "Linq\\Helper\\Common.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:23:38.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Program.cs",
+              "RelativeToolTip": "Linq\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:08:48.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AggregateOperators.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\AggregateOperators.cs",
+              "RelativeDocumentMoniker": "Linq\\Helper\\AggregateOperators.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\Linq\\Linq\\Helper\\AggregateOperators.cs",
+              "RelativeToolTip": "Linq\\Helper\\AggregateOperators.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:58:02.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
